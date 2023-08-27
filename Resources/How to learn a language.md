@@ -10,7 +10,7 @@ If there are suggestions about what should be in the list, or advice for how it 
 
 ## Steps
 ### 1. Orthography 🔴
-- If the alphabet(s) of the target language(s) are different from one's languages, it is a good idea to learn them before starting the language.
+- If the alphabet(s) of the target language(s) are different from the learner's native language(s), it is a good idea to learn them before starting the language.
 
 ### 2. Basic vocab 🟡
 - Learn phrases of regular uses, such as
@@ -20,7 +20,7 @@ If there are suggestions about what should be in the list, or advice for how it 
 - For grammar, it can be researched. Alternatively, softwares such as Busuu can help assisting this process. Refer to [this guide](https://github.com/FairyHmm/Language/blob/main/Resources/Language%20learning%20resources%20-%20Matteo.md) for a more comprehensive list.
 
 ### 4. Input 🔴
-- Start exposing to native content in some form. This is a theory called "Comprehensiable Input" or "Language Aquisition", where one listens or reads native content, and (usually subconciously) figures it out from context. [This video](https://youtu.be/J_EQDtpYSNM) explains this nicely.
+- Start exposing onself to native content in some form. This is a theory called "Comprehensiable Input" or "Language Aquisition", where one listens or reads native content, and (usually subconciously) figures it out from context. [This video](https://youtu.be/J_EQDtpYSNM) explains this nicely.
 - It's a good idea to start with a slower speed, contents meant for learners, or generally easier contents like children's shows. Talking to natives is a brilliant way to do this, as it helps practising writing and/or speaking, and getting input at the same time.
 
 ### 5. Practicing🟡
