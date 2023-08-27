@@ -7,7 +7,7 @@ An organised list of websites, softwares, among others, that are good resources 
 If there are suggestions about what should be in the list, or advices for how it can be improved, they would be greatly appreciated (contact matthew96521 or fairyhmm on Discord).
 
 ### Special
-- *Italic texts*: for entries with unsure placement
+- ⚠️ is used for entries with unsure placement
 
 ### Disclaimer
 The author (Matthew) is biased towards the comprehensiable input method, as he believes it is the best, and this is based of [another guide](https://discord.com/channels/949775981026115604/949795298178379787/1142076372236386334) in how to learn a language.
@@ -20,18 +20,18 @@ The author (Matthew) is biased towards the comprehensiable input method, as he b
 - Anki
 - Memrise
 - Clozemaster
-- *Lingo Legends*
-- *Duocards*
-- *Reword*
-- *UTalk*
+- Lingo Legends ⚠️
+- Duocards ⚠️
+- Reword ⚠️
+- UTalk ⚠️
 
 ### Both
 - Duolingo*
-- *Babel*
-- *Bussu*
-- *Falou*
-- *Rosetta Stone*
-- *Language Transfer*
+- Babel ⚠️
+- Bussu ⚠️
+- Falou ⚠️
+- Rosetta Stone ⚠️
+- Language Transfer ⚠️
 
 *: not the best for grammar
 ## Input
@@ -49,25 +49,25 @@ The author (Matthew) is biased towards the comprehensiable input method, as he b
 - SoundCloud
 - Apple Music
 - LingQ
-- *Lingo Clip*
+- Lingo Clip ⚠️
 
 ### Talking With Natives
 - Discord
 - HelloTalk
 - ChatGTP
-- *HiNative*
-- *Tandem*
+- HiNative ⚠️
+- Tandem ⚠️
 
 ### Videos / Films / TV Shows
 - Netflix
 - Disney+
-- *Woodpecker*
+- Woodpecker ⚠️
 
 ### Other
 - YouTube
 - Video Games
 - LingQ
-- *Woodpecker*
+- Woodpecker ⚠️
 
 ### Youtube Channels
 - Easy Languages
@@ -77,16 +77,16 @@ The author (Matthew) is biased towards the comprehensiable input method, as he b
 *Translators and AIs are not always acurate*
 - Word Reference
 - Wikitionary
-- *Glosble*
+- Glosble ⚠️
 - Translators
     - Deep-L
     - Google Translate
-    - *Yandex Translate*
+    - Yandex Translate ⚠️
 - Chat bots
     - ChatGTP
     - Bing AI
     - Bard
-- *Forvo*
+- Forvo 
 
 ### Time Management
 - Polylogger
@@ -97,4 +97,4 @@ The author (Matthew) is biased towards the comprehensiable input method, as he b
 - Loop Habbit Tracker
 
 ### Other
-- *Refold*
+- Refold ⚠️
