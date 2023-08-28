@@ -12,8 +12,10 @@ If there are suggestions about what should be in the list, or advices for how it
 
 ### Notes
 - ⚠️: entries with unsure placement
+- 
 - 💰: paid/subscription based services
 - 🔒: freemium services, or free with limitations
+- other: completely free services
 
 ### Disclaimer
 The author (Matthew) is biased towards the comprehensiable input method, as he believes it is the best, and this is based of [another guide](https://github.com/FairyHmm/Language/blob/main/Resources/How%20to%20learn%20a%20language.md) in how to learn a language.
@@ -22,9 +24,9 @@ The author (Matthew) is biased towards the comprehensiable input method, as he b
 *Good reasources when starting to learn a language, or doing comprehensiable input*
 
 ### Vocab
-- [Anki](https://apps.ankiweb.net/)
+- [Anki](https://apps.ankiweb.net/) 
 - [Clozemaster](https://www.clozemaster.com/) 🔒
-- [Duocards](https://duocards.com/) ⚠️
+- [Duocards](https://duocards.com/) ⚠️🔒
 - [Duolingo](https://www.duolingo.com/) 🔒
 - [Lingo Legends](https://www.lingolegend.com/)* ⚠️🔒
 - [Memrise](https://www.memrise.com/)🔒
@@ -34,7 +36,7 @@ The author (Matthew) is biased towards the comprehensiable input method, as he b
 *: not available worldwide
 ### Both
 - [Babbel](https://www.babbel.com/) ⚠️💰
-- [Bussu](https://www.busuu.com/) ⚠️💰
+- [Bussu](https://www.busuu.com/) ⚠️🔒
 - [Duolingo](https://www.duolingo.com/)* 🔒
 - [Falou](https://falou.app/) ⚠️🔒
 - [Language Transfer](https://www.languagetransfer.org/) ⚠️
@@ -55,23 +57,23 @@ The author (Matthew) is biased towards the comprehensiable input method, as he b
 - [LingQ](https://www.lingq.com/) 🔒
 - Music streaming services
     - [Apple Music](https://music.apple.com/) 💰
-    - [SoundCloud](https://soundcloud.com/) 💰
-    - [Spotify](https://spotify.com/)💰
+    - [SoundCloud](https://soundcloud.com/) 🔒
+    - [Spotify](https://spotify.com/) 🔒
     - [YouTube Music](https://music.youtube.com/)* 🔒
-- [YouTube](https://youtube.com/)🔒
+- [YouTube](https://youtube.com/) 🔒
 
 *: not available worldwide
 ### Talking With Natives
 - Chat bots
 - [Discord](https://discord.com/) 🔒
 - [HelloTalk](https://www.hellotalk.com/) 🔒
-- [HiNative](https://hinative.com/) ⚠️
+- [HiNative](https://hinative.com/) ⚠️🔒
 - [Tandem](https://www.tandem.net/) ⚠️🔒
 
 ### Videos / Films / TV Shows
 - [Disney+](https://www.disneyplus.com/) 💰
 - [Netflix](https://netflix.com/) 💰
-- [Woodpecker](https://www.woodpeckerlearning.com/) ⚠️
+- [Woodpecker](https://www.woodpeckerlearning.com/) ⚠️🔒
 
 ### Other
 - [LingQ](https://www.lingq.com/) 🔒
